@@ -1,0 +1,650 @@
+### Day 1: Introduction to Data Structures
+1. Implement a basic list
+2. Implement a basic stack using lists
+3. Implement a basic queue using lists
+4. Implement a linked list (single)
+5. Implement a linked list (double)
+6. Implement a circular linked list
+7. Stack operations (push, pop, peek)
+8. Queue operations (enqueue, dequeue, peek)
+9. Linked list traversal
+10. Linked list insertion (beginning, end)
+11. Linked list deletion (beginning, end)
+12. Reversing a linked list
+13. Finding the length of a linked list
+14. Merging two linked lists
+15. Detecting a loop in a linked list
+16. Removing duplicates from a linked list
+17. Implement a stack with two queues
+18. Implement a queue with two stacks
+19. Implement a linked list with a tail reference
+20. Convert a stack to a queue and vice versa
+
+### Day 2: Arrays and Strings
+1. Implement array operations (insert, delete, update)
+2. Find the maximum and minimum elements in an array
+3. Find the sum of all elements in an array
+4. Reverse an array
+5. Rotate an array (left and right)
+6. Find duplicates in an array
+7. Find the first non-repeating character in a string
+8. Implement a string reversal function
+9. Check if a string is a palindrome
+10. Find the longest substring without repeating characters
+11. Check if two strings are anagrams
+12. Count occurrences of characters in a string
+13. Implement string compression (e.g., "aabcccccaaa" -> "a2b1c5a3")
+14. Perform string substitution (e.g., replace spaces with '%20')
+15. Find the longest common prefix of strings
+16. Implement a basic text editor (undo/redo)
+17. Find all permutations of a string
+18. Find the longest palindrome substring
+19. Remove all adjacent duplicates from a string
+20. Check if a string contains all unique characters
+
+### Day 3: Linked Lists
+1. Implement a singly linked list
+2. Implement a doubly linked list
+3. Find the middle element of a linked list
+4. Merge two sorted linked lists
+5. Detect a loop in a linked list
+6. Find the starting node of a loop in a linked list
+7. Reverse a doubly linked list
+8. Remove the nth node from the end of a linked list
+9. Rotate a linked list to the right by k places
+10. Flatten a multi-level linked list
+11. Find intersection point of two linked lists
+12. Remove duplicates from a sorted linked list
+13. Implement a linked list with a random pointer
+14. Implement a linked list with insertion sort
+15. Check if a linked list is a palindrome
+16. Split a linked list into two halves
+17. Find the kth to last element of a linked list
+18. Find the union and intersection of two linked lists
+19. Implement a linked list-based stack
+20. Implement a linked list-based queue
+
+### Day 4: Stacks and Queues
+1. Implement a stack using a linked list
+2. Implement a queue using a linked list
+3. Implement a circular queue
+4. Evaluate a postfix expression (Reverse Polish Notation)
+5. Implement a priority queue using a heap
+6. Implement a min-heap
+7. Implement a max-heap
+8. Implement a stack that supports minimum element retrieval
+9. Implement a queue with maximum size
+10. Check for balanced parentheses in an expression
+11. Implement a queue with two stacks
+12. Implement a stack with push, pop, and max operations
+13. Design a stack that supports push, pop, top, and retrieving the minimum element in constant time
+14. Design a stack that supports push, pop, top, and retrieving the maximum element in constant time
+15. Implement a deque (double-ended queue)
+16. Implement a stack using two queues
+17. Implement a queue using two stacks
+18. Implement a sliding window maximum
+19. Implement a circular buffer
+20. Implement a stack that supports dynamic resizing
+
+### Day 5: Trees - Basics
+1. Implement a binary tree
+2. Implement a binary search tree (BST)
+3. Insert an element into a BST
+4. Delete an element from a BST
+5. Find the height of a binary tree
+6. Find the depth of a binary tree node
+7. Traverse a binary tree using in-order traversal
+8. Traverse a binary tree using pre-order traversal
+9. Traverse a binary tree using post-order traversal
+10. Traverse a binary tree using level-order traversal
+11. Check if a binary tree is balanced
+12. Check if a binary tree is a binary search tree
+13. Find the lowest common ancestor of two nodes
+14. Find the maximum path sum in a binary tree
+15. Convert a binary search tree to a doubly linked list
+16. Find all leaf nodes of a binary tree
+17. Serialize and deserialize a binary tree
+18. Find the diameter of a binary tree
+19. Find the maximum depth of a binary tree
+20. Find the minimum depth of a binary tree
+
+### Day 6: Binary Search Trees (BST)
+1. Implement a BST insertion operation
+2. Implement a BST deletion operation
+3. Search for a value in a BST
+4. Find the minimum value in a BST
+5. Find the maximum value in a BST
+6. Find the successor of a given node in a BST
+7. Find the predecessor of a given node in a BST
+8. Check if a tree is a BST
+9. Convert a BST to a sorted doubly linked list
+10. Find the kth smallest element in a BST
+11. Find the kth largest element in a BST
+12. Find the range sum of BST
+13. Find all the elements in a given range in a BST
+14. Find the vertical order traversal of a BST
+15. Find the horizontal distance between nodes in a BST
+16. Construct a BST from preorder traversal
+17. Construct a BST from inorder and preorder traversal
+18. Construct a BST from inorder and postorder traversal
+19. Check if two BSTs are identical
+20. Find the longest consecutive sequence in a BST
+
+### Day 7: Heaps and Priority Queues
+1. Implement a min-heap
+2. Implement a max-heap
+3. Insert elements into a heap
+4. Delete elements from a heap
+5. Peek at the top element of a heap
+6. Heapify an array
+7. Perform heap sort
+8. Merge two heaps
+9. Implement a priority queue using a heap
+10. Find the kth largest element in an array using a heap
+11. Find the kth smallest element in an array using a heap
+12. Implement a median finder using two heaps
+13. Implement a sliding window median using heaps
+14. Implement a heap-based priority queue
+15. Check if a given array is a valid heap
+16. Convert a heap into a sorted array
+17. Find the maximum product of two elements in an array using a heap
+18. Find the smallest k elements in an array using a heap
+19. Find the largest k elements in an array using a heap
+20. Find the sum of all elements in a sliding window using a heap
+
+### Day 8: Hashing
+1. Implement a hash table
+2. Implement hash functions
+3. Handle collisions using chaining
+4. Handle collisions using open addressing
+5. Implement a hash set
+6. Implement a hash map
+7. Find the first non-repeating character using hashing
+8. Check for duplicates in an array using hashing
+9. Find all pairs with a given sum using hashing
+10. Find the intersection of two arrays using hashing
+11. Find the union of two arrays using hashing
+12. Check if two strings are anagrams using hashing
+13. Count the frequency of elements in an array using hashing
+14. Find the longest consecutive sequence in an array using hashing
+15. Implement a hash table with rehashing
+16. Implement a hash map with a custom hash function
+17. Check if a subset with a given sum exists using hashing
+18. Detect cycle in a graph using hashing
+19. Find the longest subarray with zero sum using hashing
+20. Find all unique subarrays with a given sum using hashing
+
+### Day 9: Graphs - Basics
+1. Implement a graph using adjacency list
+2. Implement a graph using adjacency matrix
+3. Add an edge to an undirected graph
+4. Add an edge to a directed graph
+5. Implement breadth-first search (BFS)
+6. Implement depth-first search (DFS)
+7. Find connected components in a graph
+8. Find the shortest path in an unweighted graph using BFS
+9. Find the shortest path in a weighted graph using Dijkstra’s algorithm
+10. Find the shortest path in a weighted graph using Bellman-Ford algorithm
+11. Check if a graph is cyclic
+12. Check if a directed graph is cyclic
+13. Detect a cycle in a directed graph using DFS
+14. Find strongly connected components in a graph
+15. Topological sort of a directed graph
+16. Find the shortest path between two nodes using BFS
+17. Implement a graph traversal with recursion
+18. Implement a graph traversal with iteration
+19. Find the minimum spanning tree using Kruskal’s algorithm
+20. Find the minimum spanning tree using Prim’s algorithm
+
+### Day 10: Advanced
+
+ Graph Algorithms
+1. Implement Floyd-Warshall algorithm for all-pairs shortest path
+2. Implement A* search algorithm
+3. Find bridges in a graph
+4. Find articulation points in a graph
+5. Implement a graph traversal with a priority queue
+6. Find the shortest path with negative weights using Bellman-Ford
+7. Implement the Edmonds-Karp algorithm for maximum flow
+8. Implement the Ford-Fulkerson algorithm for maximum flow
+9. Find the maximum bipartite matching in a graph
+10. Find the shortest path using Johnson’s algorithm
+11. Implement the Chinese Postman problem
+12. Solve the Traveling Salesman Problem (TSP) using approximation algorithms
+13. Implement the Graph Coloring problem
+14. Find the minimum cut in a flow network
+15. Solve the Hamiltonian Path problem
+16. Find the maximum independent set in a graph
+17. Find the maximum clique in a graph
+18. Solve the Network Flow problem
+19. Implement the Konigsberg Bridge problem
+20. Solve the Steiner Tree problem
+
+### Day 11: Recursion and Backtracking
+1. Implement basic recursion
+2. Solve the factorial problem using recursion
+3. Solve the Fibonacci sequence using recursion
+4. Implement recursion for array traversal
+5. Solve the N-Queens problem using backtracking
+6. Solve the Sudoku problem using backtracking
+7. Generate all permutations of a string using recursion
+8. Generate all combinations of a set using recursion
+9. Implement recursive binary search
+10. Solve the subset sum problem using backtracking
+11. Solve the combination sum problem using backtracking
+12. Implement the Tower of Hanoi problem
+13. Solve the Rat in a Maze problem using recursion
+14. Solve the Word Search problem using backtracking
+15. Implement the Palindrome Partitioning problem
+16. Generate all subsets of a set using recursion
+17. Solve the K-Subset problem using backtracking
+18. Implement the Partition Equal Subset Sum problem
+19. Solve the Permutations with Duplicates problem
+20. Implement a recursive depth-first search (DFS) algorithm
+
+### Day 12: Sorting Algorithms
+1. Implement bubble sort
+2. Implement selection sort
+3. Implement insertion sort
+4. Implement merge sort
+5. Implement quicksort
+6. Implement heap sort
+7. Implement counting sort
+8. Implement radix sort
+9. Implement bucket sort
+10. Implement shell sort
+11. Analyze the time complexity of various sorting algorithms
+12. Implement a sorting algorithm with custom comparison
+13. Implement a stable sorting algorithm
+14. Implement a sorting algorithm with auxiliary space constraints
+15. Sort an array of strings
+16. Sort an array of integers in descending order
+17. Implement a sorting algorithm for linked lists
+18. Implement a sorting algorithm for external sorting
+19. Implement a sorting algorithm for large datasets
+20. Implement a hybrid sorting algorithm (e.g., Timsort)
+
+### Day 13: Searching Algorithms
+1. Implement linear search
+2. Implement binary search
+3. Implement ternary search
+4. Implement interpolation search
+5. Implement exponential search
+6. Implement jump search
+7. Implement Fibonacci search
+8. Analyze the time complexity of searching algorithms
+9. Implement search in a rotated sorted array
+10. Implement search in a 2D matrix
+11. Implement a search algorithm with multiple criteria
+12. Implement a search algorithm with user-defined comparisons
+13. Implement search with caching
+14. Implement search with early termination
+15. Implement search with dynamic programming
+16. Implement search with a bitwise approach
+17. Implement search in a trie data structure
+18. Implement search in a segment tree
+19. Implement search in a suffix tree
+20. Implement search in a B-tree
+
+### Day 14: Dynamic Programming - Basics
+1. Implement the Fibonacci sequence using dynamic programming
+2. Solve the coin change problem using dynamic programming
+3. Solve the knapsack problem using dynamic programming
+4. Implement the longest common subsequence problem
+5. Implement the longest increasing subsequence problem
+6. Solve the edit distance problem using dynamic programming
+7. Solve the matrix chain multiplication problem
+8. Implement the subset sum problem using dynamic programming
+9. Solve the rod cutting problem using dynamic programming
+10. Implement the number of unique paths in a grid problem
+11. Solve the maximum subarray sum problem using dynamic programming
+12. Implement the palindrome partitioning problem using dynamic programming
+13. Solve the longest palindromic substring problem
+14. Solve the word break problem using dynamic programming
+15. Implement the minimum path sum in a grid problem
+16. Solve the integer partition problem using dynamic programming
+17. Solve the bounded knapsack problem using dynamic programming
+18. Implement the distinct subsequences problem using dynamic programming
+19. Solve the maximum product subarray problem using dynamic programming
+20. Implement the egg drop problem using dynamic programming
+
+### Day 15: Advanced Dynamic Programming
+1. Solve the traveling salesman problem using dynamic programming
+2. Implement the 0/1 knapsack problem with constraints
+3. Solve the maximum flow problem using dynamic programming
+4. Implement the longest common substring problem using dynamic programming
+5. Solve the matrix exponentiation problem using dynamic programming
+6. Implement the permutation with constraints problem
+7. Solve the cutting a stick problem using dynamic programming
+8. Implement the regular expression matching problem using dynamic programming
+9. Solve the maximum rectangle in a binary matrix problem
+10. Implement the maximum sum rectangle in a 2D matrix problem
+11. Solve the minimum number of coins problem with multiple denominations
+12. Implement the word break II problem using dynamic programming
+13. Solve the longest common prefix problem with multiple strings
+14. Implement the combination sum IV problem using dynamic programming
+15. Solve the number of ways to decode a string problem
+16. Implement the maximum subarray sum with a circular array
+17. Solve the longest path in a directed acyclic graph (DAG) problem
+18. Implement the minimum window substring problem
+19. Solve the count of subsets with a given sum problem
+20. Implement the paint fence problem using dynamic programming
+
+### Day 16: Greedy Algorithms
+1. Implement the coin change problem using a greedy approach
+2. Solve the fractional knapsack problem using a greedy approach
+3. Implement the job scheduling problem with deadlines
+4. Solve the activity selection problem using a greedy approach
+5. Implement the Huffman coding algorithm
+6. Solve the minimum spanning tree problem using Kruskal’s algorithm
+7. Implement Prim’s algorithm for minimum spanning tree
+8. Solve the graph coloring problem using a greedy approach
+9. Implement the interval scheduling maximization problem
+10. Solve the maximum profit job scheduling problem
+11. Implement the problem of finding the smallest number of platforms required for a train station
+12. Solve the minimum number of coins problem with denominations
+13. Implement the range minimum query problem using a greedy approach
+14. Solve the problem of finding the minimum number of operations to make all elements equal
+15. Implement the problem of finding the maximum sum of non-adjacent elements
+16. Solve the problem of finding the maximum number of activities that can be performed
+17. Implement the problem of finding the longest consecutive sequence using a greedy approach
+18. Solve the problem of merging intervals using a greedy approach
+19. Implement the problem of finding the maximum number of meetings that can be scheduled
+20. Solve the problem of finding the minimum number of swaps required to sort an array
+
+### Day 17: Bit Manipulation
+1. Implement bitwise AND, OR, and XOR operations
+2. Count the number of set bits in an integer
+3. Find the ith bit of an integer
+4. Set the ith bit of an integer
+5. Clear the ith bit of an integer
+6. Toggle the ith bit of an integer
+7. Check if a number is a power of two using bit manipulation
+8. Swap two numbers without using a temporary variable
+9. Find the unique number in an array where every other number appears twice
+10. Find the two unique numbers in an array where every other number appears twice
+11. Find the single non-duplicate element in a sorted array
+12. Find the missing number in an array containing numbers from 1 to n
+13. Find the duplicate number in an array containing numbers from 1 to n-1
+14. Implement bitwise operations for binary search
+15. Implement bitwise operations for efficient multiplication and division
+16. Compute the Hamming distance between two integers
+17. Implement a bitwise approach to solve the parity bit problem
+18. Use bitwise operations to check for palindromes
+19. Implement bit manipulation to find the longest sequence of 1s in a binary representation
+20. Implement bit manipulation to count the number of trailing zeros in a binary representation
+
+### Day 18: Complexity Analysis
+1. Analyze the time complexity of sorting algorithms
+2. Analyze the time complexity of searching algorithms
+3. Analyze the space complexity of common data structures
+4. Analyze the time complexity of recursive algorithms
+5. Implement an algorithm and analyze its complexity
+6. Compare the time complexity of iterative vs recursive solutions
+7. Analyze the worst-case time complexity of a given algorithm
+8. Analyze the best-case time complexity of a given algorithm
+9. Implement a solution with different time complexities and compare them
+10. Analyze the space complexity of recursive vs iterative solutions
+11. Implement an algorithm and perform a complexity analysis using Big O notation
+12. Analyze the average-case time complexity of a given algorithm
+13. Compare the performance of algorithms with different time complexities
+14. Implement and analyze the complexity of a dynamic programming solution
+15. Analyze the time complexity of graph algorithms
+16. Compare the space complexity of different data structures
+17. Analyze the complexity of algorithms for real-world problems
+18. Implement an algorithm and profile
+
+ its execution time
+19. Analyze the trade-offs between time and space complexity
+20. Optimize an algorithm by improving its complexity
+
+### Day 19: Advanced Topics
+1. Implement the Aho-Corasick algorithm for string matching
+2. Implement the KMP (Knuth-Morris-Pratt) string matching algorithm
+3. Implement the Boyer-Moore string matching algorithm
+4. Implement the Rabin-Karp string matching algorithm
+5. Solve the Longest Common Substring problem using advanced techniques
+6. Implement a Suffix Tree
+7. Implement a Suffix Array
+8. Solve the Longest Common Prefix problem using advanced techniques
+9. Implement the Burrows-Wheeler Transform
+10. Solve the Longest Palindromic Subsequence problem
+11. Implement the Knuth-Morris-Pratt (KMP) algorithm for string matching
+12. Solve the Maximum Flow problem using advanced algorithms
+13. Implement the Ford-Fulkerson algorithm for network flow
+14. Solve the Maximum Bipartite Matching problem using advanced algorithms
+15. Implement the Edmonds-Karp algorithm for maximum flow
+16. Implement the Hopcroft-Karp algorithm for bipartite matching
+17. Solve the Traveling Salesman Problem (TSP) using approximation algorithms
+18. Implement the Minimum Cut problem in a network flow
+19. Solve the Graph Coloring problem using advanced algorithms
+20. Implement the Chromatic Number problem
+
+### Day 20: Advanced Graph Algorithms
+1. Implement Dijkstra's algorithm with a priority queue
+2. Implement Bellman-Ford algorithm with early stopping
+3. Solve the Traveling Salesman Problem (TSP) with dynamic programming
+4. Implement the Max-Flow Min-Cut Theorem
+5. Implement the A* search algorithm for pathfinding
+6. Solve the Chinese Postman Problem with optimization
+7. Implement the Minimum Spanning Tree using Kruskal’s algorithm with union-find
+8. Implement the Minimum Spanning Tree using Prim’s algorithm with priority queue
+9. Solve the Network Flow problem using Dinic’s algorithm
+10. Implement the Hopcroft-Karp algorithm for maximum bipartite matching
+11. Solve the Maximal Bipartite Matching problem
+12. Implement the Push-Relabel algorithm for maximum flow
+13. Solve the All-Pairs Shortest Path problem using Floyd-Warshall
+14. Implement the Johnson’s algorithm for all-pairs shortest paths
+15. Solve the Steiner Tree problem using approximation algorithms
+16. Implement the Maximal Matching problem in a bipartite graph
+17. Solve the Multi-Commodity Flow problem
+18. Implement the Graph Isomorphism problem
+19. Solve the Planar Graphs problem
+20. Implement the Graph Connectivity problem
+
+### Day 21: String Algorithms
+1. Implement the Rabin-Karp algorithm for string matching
+2. Implement the Knuth-Morris-Pratt (KMP) string matching algorithm
+3. Implement the Boyer-Moore string matching algorithm
+4. Solve the Longest Common Substring problem using dynamic programming
+5. Solve the Longest Palindromic Substring problem
+6. Implement the Suffix Array data structure
+7. Implement the Suffix Tree data structure
+8. Solve the Longest Common Prefix problem using suffix arrays
+9. Implement the Burrows-Wheeler Transform for string compression
+10. Solve the Pattern Matching problem using advanced algorithms
+11. Implement the Z-Algorithm for string matching
+12. Solve the String Compression problem
+13. Implement the Edit Distance algorithm
+14. Solve the Word Break problem using dynamic programming
+15. Implement the Minimum Window Substring problem
+16. Solve the Anagram Substring Search problem
+17. Implement the String Matching with Wildcards
+18. Solve the Regular Expression Matching problem
+19. Implement the Longest Repeating Substring problem
+20. Solve the Palindromic Subsequence problem
+
+### Day 22: Computational Geometry
+1. Implement the Convex Hull problem using Graham’s scan
+2. Implement the Convex Hull problem using Jarvis’s march
+3. Solve the Line Intersection problem
+4. Implement the Point in Polygon problem
+5. Solve the Polygon Area problem
+6. Implement the Closest Pair of Points problem
+7. Solve the Line Segment Intersection problem
+8. Implement the Sweep Line Algorithm for computational geometry
+9. Solve the Polygon Clipping problem
+10. Implement the Voronoi Diagram problem
+11. Solve the Delaunay Triangulation problem
+12. Implement the Circle-Circle Intersection problem
+13. Solve the Geometric Range Queries problem
+14. Implement the Geometric Intersection Queries problem
+15. Solve the Geometric Convexity problem
+16. Implement the Point Location problem in a planar subdivision
+17. Solve the Geometric Intersection Testing problem
+18. Implement the Half-Plane Intersection problem
+19. Solve the Maximum Rectangle in a Binary Matrix problem
+20. Implement the Geometric Algorithms for Network Flow
+
+### Day 23: Trie Data Structure
+1. Implement a basic Trie (Prefix Tree)
+2. Insert a word into a Trie
+3. Search for a word in a Trie
+4. Delete a word from a Trie
+5. Implement Trie operations for case-insensitive search
+6. Find all words with a given prefix in a Trie
+7. Implement Trie with a frequency count for each word
+8. Implement Trie with a spell checker
+9. Solve the Longest Prefix Matching problem using a Trie
+10. Implement the Word Search problem using a Trie
+11. Implement the Auto-Complete feature using a Trie
+12. Solve the Anagrams problem using a Trie
+13. Implement the Prefix Matching problem using a Trie
+14. Solve the Insert and Search problem in a Trie
+15. Implement the Longest Common Prefix problem using a Trie
+16. Solve the Replace Words problem using a Trie
+17. Implement a Trie with a compact representation
+18. Solve the Palindrome Pairs problem using a Trie
+19. Implement a Trie with memory optimization
+20. Solve the Maximum XOR Subset problem using a Trie
+
+### Day 24: Segment Trees
+1. Implement a basic Segment Tree
+2. Build a Segment Tree from an array
+3. Implement range queries on a Segment Tree
+4. Update elements in a Segment Tree
+5. Implement range minimum queries using a Segment Tree
+6. Implement range sum queries using a Segment Tree
+7. Implement range maximum queries using a Segment Tree
+8. Solve the Range Update problem using a Segment Tree
+9. Implement a Lazy Propagation Segment Tree
+10. Solve the Range Minimum Query problem with lazy propagation
+11. Implement the Range Sum Query problem with lazy propagation
+12. Solve the Range Maximum Query problem with lazy propagation
+13. Implement the Segment Tree for range updates and range queries
+14. Solve the Interval Addition problem using a Segment Tree
+15. Implement the Segment Tree with multiple attributes
+16. Solve the Maximum Sum Query problem using a Segment Tree
+17. Implement the Segment Tree for frequency counting
+18. Solve the Dynamic Range Minimum Query problem using a Segment Tree
+19. Implement the Segment Tree for finding the kth smallest element
+20. Solve the Range Maximum Subarray Sum problem using a Segment Tree
+
+### Day 25: Fenwick Trees (Binary Indexed Trees)
+1. Implement a basic Fenwick Tree (Binary Indexed Tree)
+2. Build a Fenwick Tree from an array
+3. Implement point updates in a Fenwick Tree
+4. Implement range queries in a Fenwick Tree
+5. Solve the Prefix Sum problem using a Fenwick Tree
+6. Implement the Range Sum Query problem using a Fenwick Tree
+7. Solve the Range Update problem using a Fenwick Tree
+8. Implement the Fenwick Tree for cumulative frequency
+9. Solve the Count of Inversions problem using a Fenwick Tree
+10. Implement the Fenwick Tree with multiple updates
+11. Solve the Dynamic Range Sum Query problem using a Fenwick Tree
+12. Implement the Fenwick Tree for frequency counting
+13. Solve the Range Minimum Query problem using a Fenwick Tree
+14. Implement the Fenwick Tree with multiple attributes
+15. Solve the Maximum Prefix Sum problem using a Fenwick Tree
+16. Implement the Fenwick Tree for range updates and queries
+17. Solve the Count of Smaller Numbers After Self problem using a Fenwick Tree
+18. Implement the Fenwick Tree with memory optimization
+19. Solve the Longest Increasing Subsequence problem using a Fenwick Tree
+20. Implement the Fenwick Tree for multidimensional data
+
+### Day 26: Advanced Data Structures
+1. Implement a Red-Black Tree
+2. Implement an AVL Tree
+3. Implement a B-Tree
+4. Implement a Splay Tree
+5. Implement a Treap (Randomized Binary Search Tree)
+6. Implement a Segment Tree with persistent data
+7. Implement a Suffix Array with advanced techniques
+8. Implement a Suffix Tree with advanced techniques
+9. Solve the Dynamic Connectivity problem using Union-Find
+10. Implement a K-D Tree for multidimensional data
+11. Solve the Range Query problem with a K-D Tree
+12. Implement a LRU Cache using a Doubly Linked List and Hash Map
+13. Implement a Skip List for fast search
+14. Implement a Hash Map with open addressing
+15. Implement a Hash Set with chaining
+16. Solve the Range Minimum Query problem using a Segment Tree with lazy propagation
+17. Implement a Persistent Data Structure
+18. Solve the Dynamic Range Queries problem using advanced data structures
+19. Implement a Multi-dimensional Fenwick Tree
+20. Solve the Heavy-Light Decomposition problem using advanced data structures
+
+### Day 27: Graph Algorithms Review
+1. Review and implement basic graph traversal algorithms (BFS, DFS)
+2. Review and implement shortest path algorithms (Dijkstra, Bellman-Ford)
+3. Review and implement minimum spanning tree algorithms (Kruskal, Prim)
+4. Solve the All-P
+
+airs Shortest Path problem using Floyd-Warshall
+5. Implement advanced graph traversal algorithms (A*, IDS)
+6. Solve the Maximum Flow problem using Ford-Fulkerson and Edmonds-Karp
+7. Implement graph algorithms for bipartite matching and maximum matching
+8. Review and implement graph algorithms for network flow
+9. Solve the Traveling Salesman Problem using approximation algorithms
+10. Implement and analyze the complexity of advanced graph algorithms
+11. Solve the Graph Coloring problem using various techniques
+12. Implement algorithms for graph connectivity and articulation points
+13. Review and solve the Chinese Postman Problem
+14. Implement advanced algorithms for finding bridges in a graph
+15. Solve the Steiner Tree problem using advanced algorithms
+16. Review and implement algorithms for planar graphs
+17. Solve the Multi-Commodity Flow problem
+18. Implement the Hopcroft-Karp algorithm for bipartite matching
+19. Review and solve the Hamiltonian Path problem
+20. Implement the Graph Isomorphism problem
+
+### Day 28: Advanced Dynamic Programming Review
+1. Review and implement basic dynamic programming problems (Fibonacci, Knapsack)
+2. Solve the Longest Common Subsequence and Longest Increasing Subsequence problems
+3. Implement dynamic programming solutions for sequence alignment
+4. Solve the Traveling Salesman Problem using dynamic programming
+5. Review and implement advanced dynamic programming problems (Matrix Chain Multiplication)
+6. Solve the Maximum Flow problem using dynamic programming techniques
+7. Implement dynamic programming solutions for substring problems
+8. Review and solve advanced problems (Regular Expression Matching, Longest Palindromic Substring)
+9. Implement dynamic programming solutions for combinatorial problems
+10. Solve the Word Break problem using dynamic programming
+11. Review and solve the Combination Sum and Partition Equal Subset Sum problems
+12. Implement dynamic programming for complex interval problems
+13. Solve the Maximum Product Subarray problem using dynamic programming
+14. Review and implement the advanced dynamic programming problems (Maximum Rectangle in Binary Matrix)
+15. Solve the Paint Fence problem using dynamic programming
+16. Implement dynamic programming for complex game theory problems
+17. Review and solve the Count of Subsets with Given Sum problem
+18. Implement dynamic programming for sequence counting problems
+19. Solve the Minimum Window Substring problem using dynamic programming
+20. Review and implement optimization techniques for dynamic programming problems
+
+### Day 29: Advanced Topics Review
+1. Review and implement string matching algorithms (KMP, Boyer-Moore)
+2. Solve the Longest Common Prefix and Longest Palindromic Substring problems
+3. Implement advanced string algorithms (Suffix Tree, Suffix Array)
+4. Review and solve advanced graph problems (Maximum Bipartite Matching, Minimum Cut)
+5. Implement advanced algorithms for network flow and matching
+6. Solve the Traveling Salesman Problem with advanced techniques
+7. Review and implement algorithms for geometric problems (Convex Hull, Line Intersection)
+8. Implement advanced data structures (Trie, Segment Tree)
+9. Solve advanced problems using advanced data structures
+10. Review and implement algorithms for computational geometry
+11. Solve the Heavy-Light Decomposition problem using advanced techniques
+12. Review and implement algorithms for advanced dynamic programming problems
+13. Implement and review algorithms for network flow optimization
+14. Solve the Multi-Commodity Flow and Steiner Tree problems
+15. Review and implement advanced string algorithms (Burrows-Wheeler Transform)
+16. Solve the Planar Graphs problem using advanced algorithms
+17. Implement and review complex data structures (Persistent Data Structures, Multi-dimensional Trees)
+18. Review and solve advanced problems using advanced data structures
+19. Implement advanced algorithms for string matching and compression
+20. Review and implement advanced problems in computational geometry
+
+### Day 30: Final Review and Project Work
+1. Review and implement any unfinished problems from the previous days
+2. Complete a final project incorporating multiple algorithms and data structures
+3. Optimize and analyze the performance of the final project
+4. Prepare and deliver a presentation on the final project
+5. Reflect on the learning experience and identify areas for further study

@@ -1,0 +1,246 @@
+
+### Week 1: Basic Commands and Scripting
+
+Day 1:
+- Commands: `ls`, `cd`, `pwd`, `mkdir`, `rmdir`, `touch`, `cp`, `mv`, `rm`, `find`, `grep`, `cat`, `more`, `less`, `head`, `tail`, `chmod`, `chown`, `ln`, `df`, `du`
+- Scripts: 
+    Script to list files in a directory
+    Script to create a directory and move into it
+    Script to copy files from one directory to another
+    Script to remove empty files
+    Script to find files by name
+    Script to search for a string in a file
+    Script to concatenate files
+    Script to view file contents page by page
+    Script to get the first 10 lines of a file
+    Script to get the last 10 lines of a file
+    Script to change file permissions
+    Script to change file ownership
+    Script to create symbolic links
+    Script to display disk usage
+    Script to display directory size
+    Script to list files with detailed information
+    Script to list files with human-readable sizes
+    Script to check disk space usage
+    Script to find and delete old files
+    Script to count files in a directory
+    Script to search for a string in multiple files
+
+Day 2:
+- Commands: `ps`, `top`, `kill`, `pkill`, `killall`, `htop`, `free`, `uptime`, `dmesg`, `uname`, `whoami`, `w`, `last`, `history`, `alias`, `unalias`, `date`, `cal`, `time`, `bc`
+- Scripts: 
+  - Script to monitor system processes
+  - Script to kill a process by PID
+  - Script to kill processes by name
+  - Script to display memory usage
+  - Script to check system uptime
+  - Script to view system messages
+  - Script to display current user info
+  - Script to view who is logged in
+  - Script to display system load average
+  - Script to get command history
+  - Script to create an alias
+  - Script to remove an alias
+  - Script to display current date and time
+  - Script to show a calendar
+  - Script to measure execution time
+  - Script to perform arithmetic calculations
+  - Script to check CPU usage
+  - Script to check disk I/O
+  - Script to view system log files
+  - Script to schedule a one-time task using `at`
+
+Day 3:
+- Commands: `sudo`, `su`, `passwd`, `useradd`, `usermod`, `userdel`, `groupadd`, `groupdel`, `chage`, `crontab`, `at`, `umask`, `id`, `groups`, `who`, `finger`, `lastlog`, `groupmod`, `groups`, `gpasswd`, `deluser`, `adduser`
+- Scripts: 
+  - Script to change user password
+  - Script to add a new user
+  - Script to modify user details
+  - Script to delete a user
+  - Script to add a new group
+  - Script to delete a group
+  - Script to change user password expiry
+  - Script to schedule a task with `cron`
+  - Script to view user details
+  - Script to create a new group and add users
+  - Script to remove a user from a group
+  - Script to change a user's primary group
+  - Script to show last login details
+  - Script to list all users
+  - Script to list all groups
+  - Script to add a user to multiple groups
+  - Script to change a user's shell
+  - Script to set default file permissions
+  - Script to check group membership
+  - Script to list scheduled cron jobs
+
+Day 4:
+- Commands: `tar`, `gzip`, `gunzip`, `bzip2`, `bunzip2`, `zip`, `unzip`, `tar`, `rsync`, `scp`, `sftp`, `wget`, `curl`, `ping`, `traceroute`, `netstat`, `ss`, `ifconfig`, `ip`, `route`, `hostname`
+- Scripts: 
+  - Script to create a tarball archive
+  - Script to compress files with gzip
+  - Script to extract gzip files
+  - Script to compress files with bzip2
+  - Script to extract bzip2 files
+  - Script to zip files
+  - Script to unzip files
+  - Script to synchronize files between directories
+  - Script to transfer files over SSH
+  - Script to download files with `wget`
+  - Script to download files with `curl`
+  - Script to check network connectivity
+  - Script to trace network routes
+  - Script to display network statistics
+  - Script to show listening ports
+  - Script to configure network interface
+  - Script to display routing table
+  - Script to display hostname
+  - Script to ping multiple hosts
+  - Script to check network interface statistics
+
+Day 5:
+- Commands: `awk`, `sed`, `cut`, `sort`, `uniq`, `join`, `diff`, `comm`, `paste`, `tee`, `xargs`, `chmod`, `chgrp`, `chown`, `stat`, `file`, `mkfifo`, `shred`, `wc`, `split`, `nl`
+- Scripts: 
+  - Script to process text files with `awk`
+  - Script to perform text substitution with `sed`
+  - Script to extract specific columns from a file with `cut`
+  - Script to sort lines in a file
+  - Script to remove duplicate lines
+  - Script to join lines of two files
+  - Script to compare files
+  - Script to display common lines in two files
+  - Script to merge lines of files
+  - Script to write output to multiple files
+  - Script to execute commands with arguments
+  - Script to change file permissions recursively
+  - Script to change file group ownership
+  - Script to check file status
+  - Script to identify file types
+  - Script to securely delete files
+  - Script to count lines, words, and characters in a file
+  - Script to split a file into smaller parts
+  - Script to number lines in a file
+  - Script to create a named pipe
+
+Day 6:
+- Commands: `grep`, `egrep`, `fgrep`, `xargs`, `tee`, `cut`, `paste`, `tr`, `sed`, `awk`, `sort`, `uniq`, `diff`, `find`, `locate`, `updatedb`, `which`, `whereis`, `man`, `info`
+- Scripts: 
+  - Script to search for text in files using `grep`
+  - Script to perform extended regex search with `egrep`
+  - Script to search for fixed strings with `fgrep`
+  - Script to use `xargs` to handle long command arguments
+  - Script to write output to a file and display it on the screen
+  - Script to extract fields from text with `cut`
+  - Script to combine lines of files with `paste`
+  - Script to translate characters with `tr`
+  - Script to perform text transformations with `sed`
+  - Script to process data with `awk`
+  - Script to sort text file data
+  - Script to find unique lines in a file
+  - Script to compare file differences
+  - Script to find files with specific criteria
+  - Script to locate files on the system
+  - Script to update file database for `locate`
+  - Script to find executable files
+  - Script to locate man pages
+  - Script to search for documentation
+
+Day 7:
+- Commands: `env`, `export`, `unset`, `source`, `shopt`, `set`, `getopts`, `trap`, `read`, `echo`, `printf`, `sleep`, `wait`, `jobs`, `bg`, `fg`, `kill`, `test`, `[[ ]]`, `[ ]`
+- Scripts: 
+  - Script to set environment variables
+  - Script to export variables to child processes
+  - Script to unset environment variables
+  - Script to source environment settings from a file
+  - Script to change shell options with `shopt`
+  - Script to set shell options
+  - Script to parse command-line options
+  - Script to handle signals with `trap`
+  - Script to read user input
+  - Script to display messages with `echo`
+  - Script to format text output with `printf`
+  - Script to pause execution
+  - Script to wait for a process to finish
+  - Script to list background jobs
+  - Script to resume jobs in the background
+  - Script to bring a job to the foreground
+  - Script to terminate a process
+  - Script to test file attributes
+  - Script to use conditional expressions
+  - Script to compare strings and numbers
+
+### Week 2: Intermediate Commands and Scripting
+
+Day 8 to Day 14:
+- Commands: `find`, `locate`, `grep`, `sed`, `awk`, `cut`, `sort`, `uniq`, `diff`, `cmp`, `wc`, `
+
+xargs`, `tee`, `tr`, `paste`, `join`, `split`, `od`, `file`, `stat`, `lsblk`
+- Scripts: 
+  - Script to find files and directories based on various criteria
+  - Script to search for files using `locate`
+  - Script to search text with `grep` using regex
+  - Script to replace text with `sed`
+  - Script to process text files using `awk`
+  - Script to extract columns from a file
+  - Script to sort and filter file contents
+  - Script to find differences between files
+  - Script to compare files byte by byte
+  - Script to count lines, words, and characters
+  - Script to handle arguments with `xargs`
+  - Script to append output to a file and display it
+  - Script to translate characters in a file
+  - Script to combine lines from multiple files
+  - Script to split a file into parts
+  - Script to view file content in octal
+  - Script to identify file types and attributes
+  - Script to list block devices and their attributes
+
+### Week 3: Advanced Commands and Scripting
+
+Day 15 to Day 21:
+- Commands: `awk`, `sed`, `grep`, `find`, `xargs`, `tar`, `zip`, `unzip`, `rsync`, `scp`, `curl`, `wget`, `netcat`, `nc`, `iptables`, `firewalld`, `systemctl`, `journalctl`, `uptime`, `dmesg`
+- Scripts: 
+  - Script to process and manipulate data with `awk`
+  - Script to perform complex text replacements with `sed`
+  - Script to search for patterns in files with `grep`
+  - Script to find files and perform operations on them
+  - Script to handle large number of arguments with `xargs`
+  - Script to archive and compress directories
+  - Script to synchronize files between systems
+  - Script to transfer files securely
+  - Script to download files with `curl`
+  - Script to download files with `wget`
+  - Script to create a simple server with `netcat`
+  - Script to configure basic firewall rules with `iptables`
+  - Script to manage firewall rules with `firewalld`
+  - Script to start, stop, and restart services with `systemctl`
+  - Script to view and filter system logs with `journalctl`
+  - Script to check system uptime and load
+  - Script to view kernel messages
+
+### Week 4: Advanced Scripting and Automation
+
+Day 22 to Day 30:
+- Commands: `cron`, `at`, `systemd`, `bash`, `sh`, `zsh`, `fish`, `ksh`, `expect`, `make`, `cmake`, `docker`, `git`, `vim`, `nano`, `emacs`, `awk`, `sed`, `grep`, `find`, `xargs`
+- Scripts: 
+  - Script to automate tasks with `cron` and `at`
+  - Script to write and manage systemd services
+  - Script to create complex scripts with `bash` or other shells
+  - Script to automate repetitive tasks with `expect`
+  - Script to build and compile projects with `make` or `cmake`
+  - Script to manage containers with `docker`
+  - Script to use `git` for version control
+  - Script to edit files with `vim`, `nano`, or `emacs`
+  - Script to perform advanced text processing with `awk` and `sed`
+  - Script to search and process text files with `grep`, `find`, and `xargs`
+  - Script to create a simple interactive script
+  - Script to parse command-line arguments
+  - Script to create a log file with timestamp
+  - Script to handle multiple files with batch operations
+  - Script to integrate with APIs using `curl`
+  - Script to manage user permissions
+  - Script to automate system monitoring tasks
+  - Script to back up files and directories
+  - Script to perform system health checks
+  - Script to deploy an application using `docker`
+  - Script to clean up temporary files

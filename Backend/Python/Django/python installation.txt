@@ -1,0 +1,22 @@
+python -m venv envbloodbloom
+.\envbloodbloom\Scripts\activate
+python -m pip install django 
+django-admin --version
+django-admin startproject bloodBloomProject .
+python .\manage.py startapp blood
+django-admin startapp blood
+
+pip install pipenv
+pipenv shell
+pip install django
+pipenv --venv
+ python .\manage.py makemigrations
+python .\manage.py migrate
+
+.\menvi\Scripts\activate
+   3 py manage.py
+   4 py manage.py startapp book
+   5 py manage.py makemigrations
+   6 py manage.py makemigrations
+   7 py manage.py makemigrations
+   8 py manage.py migrate
